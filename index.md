@@ -1,7 +1,9 @@
 # CSE Labs "Done Quick"
 ## Log into ieng6  
   
-Keys pressed: `<ctrl + r><ssh><enter> `
+Keys pressed: `<ctrl + r><ssh><enter>`  
+  
+I had already setup the ssh automatic authentication, so I simply had to search for the command in my history and press enter.  
   
  
 ## Clone your fork of the repository from your Github account  
