@@ -42,7 +42,7 @@ First, I changed my directory into the lab7 directory with cd. Then, I searched 
   
 Commands used: `nano ListExamples.java`
   
-Keys pressed: <ctrl + r> nano <enter> <ctrl + shift + -> 43 <enter><right x 12> <key> 2 <ctrl + o><enter><ctrl + x>  
+Keys pressed: `<ctrl + r> nano <enter> <ctrl + shift + -> 43 <enter><right x 12><backspace> 2 <ctrl + o><enter><ctrl + x>`  
 
 First, I used nano to open and edit ListExamples.java by searching for the previous command I used to enter nano and pressing enter. Then, I used <ctrl + shift + -> and entered 43 to jump to line 43 where I knew the error was. I pressed <right> 12 times to get to the column I wanted, backspaced and inputted 2 to fix the bug, and used <ctrl + o><enter> to save and <ctrl + x> to exit out of nano.    
   
