@@ -1,7 +1,9 @@
 # CSE Labs "Done Quick"
 ## Log into ieng6  
   
+Keys pressed: <ctrl + r><ssh><enter> 
   
+ 
 ## Clone your fork of the repository from your Github account  
   
   
