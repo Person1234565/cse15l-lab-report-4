@@ -59,7 +59,7 @@ I searched for the javac command I used previously with <ctrl + r> and keyword j
   
 ## Commit and push the resulting change to your Github account  
   
-![Image](Step5.png)  
+![Image](Step6.png)  
   
 Command used : `git add .`  
                `git commit -m "done"`
