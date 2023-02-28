@@ -44,7 +44,7 @@ Commands used: `nano ListExamples.java`
   
 Keys pressed: <ctrl + r> nano <enter> <ctrl + shift + -> 43 <enter><right x 12><backspace> 2 <ctrl + o><enter><ctrl + x>  
 
-First, I used nano to open and edit ListExamples.java by searching for the previous time I used nano and pressing enter. Then, I used <ctrl + shift + -> and entered 43 to jump to line 43 where I knew the error was. I pressed <right> 12 times to get to the column I wanted, backspaced and inputted 2 to fix the bug, and used <ctrl + o><enter> to save and <ctrl + x> to exit out of nano.    
+First, I used nano to open and edit ListExamples.java by searching for the previous command I used to enter nano and pressing enter. Then, I used <ctrl + shift + -> and entered 43 to jump to line 43 where I knew the error was. I pressed <right> 12 times to get to the column I wanted, backspaced and inputted 2 to fix the bug, and used <ctrl + o><enter> to save and <ctrl + x> to exit out of nano.    
   
 ## Run the tests, demonstrating that they now succeed  
   
@@ -67,4 +67,4 @@ Command used : `git add .`
   
 Keys pressed: `<ctrl + r> add <enter><ctrl + r> commit <enter><ctrl + r> push <enter>`
   
-I searched for each git command with <ctrl + r> and pressed enter to execute them. git add . added the changed files from the current directory to git. git commit -m "done" committed the changes and git push uploaded the changes to the remote repository on GitHub.    
+I searched for each git command with <ctrl + r> and pressed enter to execute them. `git add .` added the changed files from the current directory to git. `git commit -m "done"` committed the changes and `git push` uploaded the changes to the remote repository on GitHub.    
