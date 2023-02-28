@@ -1,6 +1,8 @@
 # CSE Labs "Done Quick"
 ## Log into ieng6  
   
+![Image](Step1.png)    
+  
 Keys pressed: `<ctrl + r><ssh><enter>`  
   
 I had already setup the ssh automatic authentication, so I simply had to search for the command in my history and press enter.  
