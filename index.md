@@ -29,8 +29,8 @@ The command I used clones my repository to ieng6. I had also ran this command be
 ![Image](Step3.png)  
   
 Commands used: `cd lab7/`  
-               `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`
-               `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTest`  
+               `javac -cp ".:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar" *.java`
+               `java -cp ".:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar" org.junit.runner.JUnitCore ListExamplesTests`  
                
 Keys pressed: `cd l <tab><enter><ctrl + r> javac <enter> <ctrl + r> runner <enter>`  
 
@@ -50,8 +50,8 @@ First, I used nano to open and edit ListExamples.java by searching for the previ
   
 ![Image](Step5.png)  
 
-Commands used: `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`
-               `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTest`
+Commands used: `javac -cp ".:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar" *.java`
+               `java -cp ".:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar" org.junit.runner.JUnitCore ListExamplesTests`
   
 Keys pressed: `<ctrl + r> javac <enter> <ctrl + r> runner <enter>`  
   
