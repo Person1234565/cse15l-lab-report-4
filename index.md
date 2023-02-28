@@ -26,7 +26,7 @@ The command I used clones my repository to ieng6. I had also ran this command be
   
 ## Run the tests, demonstrating that they fail  
   
-![Image](Step3.png)  
+![Image](Step3.2.png)  
   
 Commands used: `cd lab7/`  
                `javac -cp ".:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar" *.java`
@@ -48,7 +48,7 @@ First, I used nano to open and edit ListExamples.java by searching for the previ
   
 ## Run the tests, demonstrating that they now succeed  
   
-![Image](Step5.png)  
+![Image](Step5.5.png)  
 
 Commands used: `javac -cp ".:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar" *.java`
                `java -cp ".:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar" org.junit.runner.JUnitCore ListExamplesTests`
@@ -59,7 +59,7 @@ I searched for the javac command I used previously with <ctrl + r> and keyword j
   
 ## Commit and push the resulting change to your Github account  
   
-![Image](Step6.png)  
+![Image](Step6.5.png)  
   
 Command used : `git add .`  
                `git commit -m "done"`
